@@ -1,0 +1,45 @@
+
+span{
+padding: 10px;
+margin: 10 px;
+background-color: rgb(245, 220, 241);
+}
+input{
+    width: 200px;
+    border-radius: 3px;
+    box-shadow: inset;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(222, 243, 243);
+    margin-left: 5rem;
+}
+.submit{
+    background-color: rgb(60, 185, 168);
+    width: 214px;
+}
+h1{
+    background-color: rgb(230, 210, 237);
+    border-color: black;
+    text-align: center;
+    content: center;
+    width: 380px;
+    border-radius: 5px;
+}
+span{
+    background-color: rgb(46, 63, 63);
+    border-color: black;
+}
+div{
+    background-color: rgb(200, 243, 243);
+    border-radius: 5px;
+    padding:15px;
+}
+.registration{
+width: 380px;
+margin-left: 35rem;
+margin-bottom: 20px;
+}
+body{
+    background-image:"../app/assets/FutasBackground.png";
+}
